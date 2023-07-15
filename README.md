@@ -1,5 +1,7 @@
 ### Random_Forest
 
+![image](https://github.com/Tejashripatil25/Random_Forest/assets/124791646/7a5c9db1-e03d-43f7-aa26-6cf5039ea70d)
+
 Random Forest is an ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and Aggregation, commonly known as bagging.
 
 The basic idea behind this is to combine multiple decision trees in determining the final output rather than relying on individual decision trees. 
