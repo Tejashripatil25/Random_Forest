@@ -1,3 +1,5 @@
+![image](https://github.com/Tejashripatil25/Random_Forest/assets/124791646/66f89c61-3678-4d54-9426-e2eb99f402be)
+
 ### Random_Forest
 
 ![image](https://github.com/Tejashripatil25/Random_Forest/assets/124791646/7a5c9db1-e03d-43f7-aa26-6cf5039ea70d)
